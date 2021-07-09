@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaymaManish
 - 👀 I’m interested in Flutter Application and Laravel Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently working on Flutter
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me twitter or insta at @manishdayma22
 
