@@ -6,12 +6,10 @@
 ### My GitHub Stats
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaymaManish&show_icons=true&theme=tokyonight) 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaymaManish&show_icons=true&theme=tokyonight&hide_border=true) 
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaymaManish&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaymaManish&theme=tokyonight&hide_border=true)
 
 <br>
 
