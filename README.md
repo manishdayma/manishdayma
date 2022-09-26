@@ -11,9 +11,13 @@
 
 
 - 👋 Hi, I’m Manish.
-- 👀 I’m Flutter Application Developer.
-- 🌱 I Code Flutter Application using Bloc and Getx.
-- 💖 Looking to collab on interesting flutter projects.
+- 👀 I’m a Flutter Application Developer.
+- 🌱 I Code Flutter Application using Bloc,Provider,Riverpod and Getx State Management Sytems.
+- 💖 Looking to collab on interesting projects.
+
+### Tech Stack
+<img src="https://skillicons.dev/icons?i=flutter,firebase,dart,react,html,css" title="Flutter, Firebase, Dart, HTML, CSS" alt="Flutter, Firebase, Dart, Html, Css" /> <br />
+___
 
 ### 📊 GitHub Stats
 
