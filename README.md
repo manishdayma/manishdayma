@@ -24,7 +24,7 @@ ___
 
 ### 📊 GitHub Stats
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaymaManish&show_icons=true&theme=tokyonight) 
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishdayma&show_icons=true&theme=tokyonight) 
 
 <br>
 
